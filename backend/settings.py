@@ -86,9 +86,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'canchago_db',
-        'USER': 'postgres',
-        'PASSWORD': 'password123',
-        'HOST': 'localhost',
+        'USER': 'canchago_user',
+        'PASSWORD': 'rOg6qwV7hOnrpW7NmegWzmFmrD9oOwRO',
+        'HOST': 'dpg-d86ebrm7r5hc739u2geg-a.oregon-postgres.render.com',
         'PORT': '5432',
     }
 }
