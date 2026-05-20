@@ -26,6 +26,7 @@ SECRET_KEY = 'django-insecure-8^vf0ai47dcj!k2+fo)*x3shp%kl3+laho%7!0#n58*-%8j22p
 DEBUG = False
 
 ALLOWED_HOSTS = [
+    "canchago-backend.onrender.com",  
     "backend-zjpm.onrender.com",
     "localhost",
     "127.0.0.1",
